@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "size": {
+      "width": 300,
+      "height": 250
+    },
+    "entry": {
+      "js": "./script/main.js",
+      "html": "./index.hbs"
+    }
+  },
+  "content": {
+    "title": "Welcome to this Banner!",
+    "logo": "./img/logo.svg",
+    "cta": "CLICK HERE"
+  }
+}
